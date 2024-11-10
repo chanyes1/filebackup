@@ -1,0 +1,19 @@
+File Backup System
+
+Description: Backs up files to another location
+Input: File paths to back up
+Output: Confirm Backup Success
+Assignment Submission: 
+1. create a demo .mp4 file as an added attachment here in MS Teams(<2 min)
+2. documentation (pdf)
+
+--New--
+Create a dashboard and a GitHub page
+
+In order to run this file you need to:
+1. Have Python ver 3.7 or higher
+2. Install flask
+3. go to CMD or Bash
+4. go to the file location using "cd desktop\backup" command(change if another location
+5. then run the app by typing "python app.py"
+6. then put the precise location of the file to be backed up
